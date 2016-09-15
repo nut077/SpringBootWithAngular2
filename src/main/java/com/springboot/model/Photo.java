@@ -10,7 +10,7 @@ import java.util.List;
 
 @Entity
 @Data
-public class Photo {
+class Photo {
 
     @Id
     @GeneratedValue

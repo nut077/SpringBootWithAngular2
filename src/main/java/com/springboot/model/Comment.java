@@ -10,7 +10,7 @@ import javax.persistence.ManyToOne;
 
 @Entity
 @Data
-public class Comment {
+class Comment {
 
     @Id
     @GeneratedValue
